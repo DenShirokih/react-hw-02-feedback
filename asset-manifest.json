@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-homework-template/static/js/main.2fc2b784.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.2fc2b784.js.map": "/react-homework-template/static/js/main.2fc2b784.js.map"
+    "main.js": "/react-hw-02-feedback/static/js/main.2fc2b784.js",
+    "index.html": "/react-hw-02-feedback/index.html",
+    "main.2fc2b784.js.map": "/react-hw-02-feedback/static/js/main.2fc2b784.js.map"
   },
   "entrypoints": [
     "static/js/main.2fc2b784.js"
